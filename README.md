@@ -1,1 +1,2 @@
-# Airflow-
+# Airflow
+This Airflow DAG is designed to demonstrate the basic functionality of task execution and dependency management in Apache Airflow. It consists of three simple tasks: the first task prints the current date to indicate when the workflow is executed, the second task displays a welcome message with the user’s name to confirm that the pipeline is running successfully, and the third task generates a random number and saves it to a file for later use. Together, these tasks provide a clear example of how Airflow can be used to automate and organize sequential operations in a workflow.
